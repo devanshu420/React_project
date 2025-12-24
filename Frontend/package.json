@@ -11,9 +11,14 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
+    "axios": "^1.13.2",
     "json-server": "^1.0.0-beta.3",
+    "nanoid": "^5.1.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-form-hook": "^0.0.1",
+    "react-router-dom": "^7.11.0",
+    "react-toastify": "^11.0.5",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
